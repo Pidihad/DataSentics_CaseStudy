@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data - dataset nepatří do gitu
+data/
+
+# Instructions
+task_instructions/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
