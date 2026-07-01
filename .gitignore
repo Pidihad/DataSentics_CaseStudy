@@ -8,6 +8,9 @@ __pycache__/
 # Data - dataset nepatří do gitu
 data/
 
+# Instructions
+task_instructions/
+
 # IDE
 .vscode/
 .idea/
